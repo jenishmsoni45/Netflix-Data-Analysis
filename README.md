@@ -35,7 +35,7 @@ The dataset includes details about Netflix titles, such as:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Netflix-Data-Analysis.git
+   git clone https://github.com/https://github.com/jenishmsoni45/Netflix-Data-Analysis.git
 2. Open Netflix_Analysis.ipynb in Jupyter Notebook or Jupyter Lab.
 3. Ensure required Python libraries (pandas, numpy, matplotlib, seaborn) are installed.
 4. Run the cells to view the analysis.
